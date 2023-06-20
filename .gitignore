@@ -1,0 +1,9 @@
+**/target
+**/test-output
+.classpath
+.project
+.idea/
+allure-results/
+execution-summary/
+extent-reports/
+generate_allure_report.sh
